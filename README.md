@@ -4,6 +4,11 @@ Following Brad Schiff Udemy Class "React for the rest of us"
 
 Social Media "type" app
 
+## Todo
+
+- install react developer tools for chrome
+- VS code snippits
+
 ## Features
 
 - sign up / registration
