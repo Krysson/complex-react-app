@@ -14,14 +14,15 @@ Social Media "type" app
 - flash messages
 - live chat
 
-| Commit | DATE      | Comment              |
-| ------ | --------- | -------------------- |
-| 1      | 6/15/2022 | Initial Commit 12:24 |
-| 2      | 6/15/2022 | Next Commit 23:19    |
-| xxxx   | xxxx      | xxxx                 |
-| xxxx   | xxxx      | xxxx                 |
-| xxxx   | xxxx      | xxxx                 |
-| xxxx   | xxxx      | xxxx                 |
+| Commit | DATE      | Comment                                                               |
+| ------ | --------- | --------------------------------------------------------------------- |
+| 1      | 6/15/2022 | Initial Commit 12:24                                                  |
+| 2      | 6/15/2022 | Next Commit 23:19                                                     |
+| 3      | 6/16/2022 | Changed format of README.md to better explain app, tech, and features |
+| xxxx   | xxxx      | xxxx                                                                  |
+| xxxx   | xxxx      | xxxx                                                                  |
+| xxxx   | xxxx      | xxxx                                                                  |
+| xxxx   | xxxx      | xxxx                                                                  |
 
 ## Tech
 
