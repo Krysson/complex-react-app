@@ -8,6 +8,7 @@ Social Media "type" app
 
 - install react developer tools for chrome
 - VS code snippits
+- Install MongoDB use Google Acct sign in mongoDB Atlas - See Lesson 25 to install on local machine
 
 ## Features
 
@@ -24,7 +25,7 @@ Social Media "type" app
 | 1      | 6/15/2022 | Initial Commit 12:24                                                  |
 | 2      | 6/15/2022 | Next Commit 23:19                                                     |
 | 3      | 6/16/2022 | Changed format of README.md to better explain app, tech, and features |
-| xxxx   | xxxx      | xxxx                                                                  |
+| 4      | 6/16/2022 | Post Lesson 31 commit - EOD                                           |
 | xxxx   | xxxx      | xxxx                                                                  |
 | xxxx   | xxxx      | xxxx                                                                  |
 | xxxx   | xxxx      | xxxx                                                                  |
