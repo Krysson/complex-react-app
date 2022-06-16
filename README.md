@@ -1,6 +1,33 @@
-# Complex React App 
+# Complex React App
 
-Following Brad Schiff Udemy Class "React for the rest of us" 
+Following Brad Schiff Udemy Class "React for the rest of us"
 
-- inital Commit 6/15/2022 12:24
-- next Commit 6/15/2022 23:19
+Social Media "type" app
+
+## Features
+
+- sign up / registration
+- log in
+- user following / unfollowing
+- post - create /edit / delete / sort
+- feed - conditional homepage
+- flash messages
+- live chat
+
+| Commit | DATE      | Comment              |
+| ------ | --------- | -------------------- |
+| 1      | 6/15/2022 | Initial Commit 12:24 |
+| 2      | 6/15/2022 | Next Commit 23:19    |
+| xxxx   | xxxx      | xxxx                 |
+| xxxx   | xxxx      | xxxx                 |
+| xxxx   | xxxx      | xxxx                 |
+| xxxx   | xxxx      | xxxx                 |
+
+## Tech
+
+- node.js
+- React.js
+- MongoDB
+- express
+- webpack
+- babel
