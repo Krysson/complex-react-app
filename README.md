@@ -39,4 +39,5 @@ Social Media "type" app
 - webpack
 - babel
 
-Edited to make gitpod.io more efficient
+Edited to make gitpod.io more efficient - 6/20/2022
+
