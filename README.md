@@ -1,4 +1,4 @@
-# Complex React App!!!
+# Complex React App
 
 Following Brad Schiff Udemy Class "React for the rest of us"
 
