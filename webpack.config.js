@@ -10,7 +10,7 @@ module.exports = {
   mode: "development",
   devtool: "source-map",
   devServer: {
-    allowedHosts: "all",
+    allowedHosts: "all", // this fixes the header preview issue in gitpod but is very unsecure
     port: 3000,
     static: {
       directory: path.join(__dirname, "app")
