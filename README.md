@@ -38,3 +38,5 @@ Social Media "type" app
 - express
 - webpack
 - babel
+
+Edited to make gitpod.io more efficient
